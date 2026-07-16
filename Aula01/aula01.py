@@ -11,7 +11,8 @@ print("Análise de Dados com Python — Turma T5")
 # Criar arquivo, escrever código e enviar para o GitHub
 # git add (nome do "arquivo" ou "pasta/nome do arquivo")
 # git commit -m "texto explicando o que é"
-# git push origin main #envia o arquivo para o GitHub
+# git push -u origin main #envia o arquivo para o GitHub na primeira vez
+# git push # pode ser nas próximas oportunidades
 
 # No Terminal:
 # dir - mostra o que tem dentro da pasta.
