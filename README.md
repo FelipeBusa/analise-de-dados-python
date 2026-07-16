@@ -1,0 +1,1 @@
+Esse é o início do meu projeto utilizando VSCode para o GitHub!

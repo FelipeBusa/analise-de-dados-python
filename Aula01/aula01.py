@@ -12,3 +12,13 @@ print("Análise de Dados com Python — Turma T5")
 # git add (nome do "arquivo" ou "pasta/nome do arquivo")
 # git commit -m "texto explicando o que é"
 # git push origin main #envia o arquivo para o GitHub
+
+# No Terminal:
+# dir - mostra o que tem dentro da pasta.
+# cd (nome da pasta) vai para a pasta
+# cd .. volta uma pasta que está
+
+# PS C:\Users\busaf\Desktop\AnaliseDeDados\SCTEC\Projetos\analise-de-dados-python> cd..
+# PS C:\Users\busaf\Desktop\AnaliseDeDados\SCTEC\Projetos> cd analise-de-dados-python
+# PS C:\Users\busaf\Desktop\AnaliseDeDados\SCTEC\Projetos\analise-de-dados-python> cd Aula01
+# PS C:\Users\busaf\Desktop\AnaliseDeDados\SCTEC\Projetos\analise-de-dados-python\Aula01> dir
